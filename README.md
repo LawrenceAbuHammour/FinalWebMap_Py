@@ -1,0 +1,2 @@
+# FinalWebMap_Py
+Using the Python programming language, I programmed a web map that reads latitude and longitude data of marked volcanoes in the United States from a *.csv file and reads country and map border polygon data from a *.json file. The map also uses transparent colors to mark and represent population density from 2005 within a certain region. This program was an exercise in utilizing basic object-oriented Python programming, the folium, pandas, os, and webbrowser standard libraries in Python, and file interaction. Published in July 2018.
